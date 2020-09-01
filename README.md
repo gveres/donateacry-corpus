@@ -1,5 +1,5 @@
 # donateacry-corpus
-An infant cry audio corpus that's being built through the Donate-a-cry campaign - see http://donateacry.com
+An infant cry audio corpus that has been built through the Donate-a-cry campaign (no longer active)
 
 ## Source of these files
 This repository contains user-uploaded audio samples in their original, unmodified, unchecked form. The audio samples were uploaded using the Donate-a-cry mobile applications for Android and iOS.
